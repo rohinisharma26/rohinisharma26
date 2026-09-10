@@ -1,95 +1,18 @@
-# Rohini Sharma
-**Computer Science Student | Full-Stack Software Engineering Portfolio**
+# About Me:
+A dedicated Computer Science student specializing in full-stack software development
+
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohini-sharma-a847903b8?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohini9619@gmail.com) 
+
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rohinisharma26&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rohinisharma26&theme=date_night&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohinisharma26&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=rohinisharma26&icon=7&color=10)](https://visitcount.itsvg.in)
 
-### Professional Summary
-A dedicated Computer Science student specializing in full-stack software development. Focused on engineering high-performance frontend interfaces and architecting robust, scalable backend systems. Actively participates in hackathons to rapidly prototype, build, and deploy production-ready applications under strict execution timelines.
-
----
-
-### Technical Expertise
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🎨 Frontend Architecture</h4>
-      <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="JavaScript" width="35" height="35"/>
-      </a>
-      <a href="https://react.dev" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="React" width="35" height="35"/>
-      </a>
-      <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="Tailwind CSS" width="35" height="35"/>
-      </a>
-      <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="HTML5" width="35" height="35"/>
-      </a>
-      <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="CSS3" width="35" height="35"/>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Backend & Database Systems</h4>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="Node.js" width="35" height="35"/>
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="ExpressJS" width="35" height="35"/>
-      </a>
-      <a href="https://python.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="Python" width="35" height="35"/>
-      </a>
-      <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="MongoDB" width="35" height="35"/>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛠️ DevOps & Developer Tools</h4>
-      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="Git" width="35" height="35"/>
-      </a>
-      <a href="https://github.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="GitHub" width="35" height="35"/>
-      </a>
-      <a href="https://visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="VS Code" width="35" height="35"/>
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://vectorlogo.zone" alt="Postman" width="35" height="35"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### Current Engineering Focus
-- **System Design:** Currently deep-diving into structural REST API optimization and clean MVC (Model-View-Controller) architecture patterns.
-- **Hackathon Readiness:** Building standard modular boilerplates to reduce initial environment setup time to under 15 minutes during code sprints.
-
----
-
-### Featured Projects
-
-| Project Name | Core Architecture & Stack | Documentation & Links |
-| :--- | :--- | :--- |
-| **E-Commerce API** | Node.js, Express, MongoDB, JWT Auth | [Codebase](https://github.com) \| [Live Demo](#) |
-| **Hackathon Web App** | React, Tailwind CSS, Context API | [Codebase](https://github.com) \| [Live Demo](#) |
-
-*(Tip: You can replace the names and link URLs above as you finish deployment profiles for your top apps!)*
-
----
-
-### Performance Metrics
-<p align="center">
-  <img width="49%" src="https://vercel.app" alt="GitHub Stats" />
-  <img width="49%" src="https://vercel.app" alt="Top Languages" />
-</p>
-
----
-
-### Contact & Professional Networks
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* **Email:** contact.rohinisharma26@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
